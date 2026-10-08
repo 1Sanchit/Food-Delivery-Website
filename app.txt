@@ -1,2 +1,1 @@
-Initial version
-Login feature added
+Main version
